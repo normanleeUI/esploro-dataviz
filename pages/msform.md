@@ -15,6 +15,10 @@ begin fleshing out displayData function
 choose visualization method and/or html enhancement methods, re-evaluate use-cases
  -->
 
+ <!-- Notes
+ If you have the asset ID you can construct a URL to the asset's verso page.
+ -->
+
 //report filters form
 <form id="apiParams" onsubmit="apiCall()">
 
